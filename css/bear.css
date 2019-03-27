@@ -10,4 +10,8 @@ html {
 
 /* Write your solution here */
 
-
+@media screen only and (max-width: 1196px) {
+  #bear {
+    margin-left: 800px;
+  }
+}
